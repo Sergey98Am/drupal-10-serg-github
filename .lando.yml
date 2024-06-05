@@ -8,3 +8,4 @@ config:
 tooling:
   drush:
     service: appserver
+    cmd: /app/vendor/bin/drush
