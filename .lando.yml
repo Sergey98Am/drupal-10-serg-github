@@ -1,0 +1,7 @@
+name: drupal-10-serg
+recipe: pantheon
+config:
+  framework: drupal8
+  site: drupal-10-serg
+  id: 434ea382-1379-483a-8c34-ce8d71c0d78e
+  drush: ^10
