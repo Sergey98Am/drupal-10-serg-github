@@ -1,0 +1,28 @@
+uuid: b66b8a48-89c5-4065-831c-3cb77159f9fd
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.car.body
+    - node.type.car
+  module:
+    - text
+    - user
+id: node.car.default
+targetEntityType: node
+bundle: car
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden: {  }
