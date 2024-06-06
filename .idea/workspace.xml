@@ -196,7 +196,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/hp/ysu-website",
+    "last_opened_file_path": "/home/hp/Web Development/Drupal/Pantheon io/drupal-10-serg",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -230,6 +230,7 @@
       <workItem from="1717603503274" duration="19000" />
       <workItem from="1717603523583" duration="795000" />
       <workItem from="1717604321083" duration="1528000" />
+      <workItem from="1717674305946" duration="2739000" />
     </task>
     <servers />
   </component>
